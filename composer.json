@@ -1,6 +1,6 @@
 {
   "name": "ernilambar/harmony",
-  "description": "Sample plugin which implements WP PHPUnit testing.",
+  "description": "Sample plugin that implements WP PHPUnit testing.",
   "type": "wordpress-plugin",
   "license": "MIT",
   "authors": [

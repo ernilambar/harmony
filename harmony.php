@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Harmony
- * Description: Sample plugin which implements WP PHPUnit testing.
+ * Description: Sample plugin that implements WP PHPUnit testing.
  * Plugin URI: https://github.com/ernilambar/harmony
  * Author: Nilambar Sharma
  * Author URI: https://www.nilambar.net
